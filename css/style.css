@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header, main, section, div  {
+    display: block;
+}
+h1{
+    text-align: center;
+}
+main{
+    display: flex;
+}
+#categoryDropdown{
+    display: flex;
+    width: 30vh;
+    justify-content: center;
+}
+img{
+    height: 70vh;
+}
+a{
+    text-decoration: none;
+}

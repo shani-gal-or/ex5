@@ -1,0 +1,13 @@
+{
+    "categories":[
+      {
+        "name": "fantasy"
+      },
+      {
+        "name": "science_fiction"
+      },
+      {
+        "name": "romeance"
+      }
+    ]
+  }
